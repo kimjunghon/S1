@@ -63,5 +63,4 @@ UE5.7
 | 연출 | Level Sequence 기반 궁극기 컷씬 <br> 몬스터 시간 정지 <br> 나이아가라 기반 이펙트 <br> 포스트 프로세스 연출 |
 | 사운드 | 구역 진입에 따른 BGM 전환 |
 | Post Process | CustomDepth 스텐실 기반 오클루전 하이라이트 |
-| 시스템 | 풀링 시스템
-Data Asset Loader(태그 기반 비동기 로드)  |
+| 시스템 | 풀링 시스템 <br> Data Asset Loader(태그 기반 비동기 로드)  |
